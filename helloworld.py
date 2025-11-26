@@ -19,6 +19,6 @@ obj.sub(10,5)
 obj.mul(10,5)
 obj.div(10,5)
 obj.add(100,200)
-
+obj.sub(1000,200)
 
 
